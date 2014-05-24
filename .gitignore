@@ -1,0 +1,4 @@
+*.o
+*.hi
+MainWrapper_stub.h
+main
